@@ -1,5 +1,5 @@
 # Autopet 🐕
-Um sistema de automação para criação de pets
+[Um sistema de automação para criação de pets](https://www.youtube.com/watch?v=Ud3BD-FrE3Q)
 ## Especificações do projeto
 - Duas entradas analógicas:
     - Uma célula de carga, que determina se a quantidade de comida está adequada
